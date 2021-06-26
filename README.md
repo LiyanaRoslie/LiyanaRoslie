@@ -1,6 +1,6 @@
 # About me
 
-Currently dipping toes in tech research areas of Data Science, Web APIs, Microservices and Quantum Computing. Experienced Mobile App Developer (Objective-C, Swift, Kotlin, Android) and Web Developer (Ruby on Rails) with a demonstrated history of working in the logistics and supply chain industry.
+Currently dipping toes in tech research areas of Data Science, Web APIs, Microservices and Quantum Computing. Experienced Mobile App Developer (Objective-C, Swift, Kotlin, Android) and Web Developer (Ruby on Rails) with a demonstrated history of working in the logistics and supply chain industry. 
 
 ## Current Data Science Portfolio
 * Netflix EDA
@@ -28,6 +28,9 @@ Currently dipping toes in tech research areas of Data Science, Web APIs, Microse
  
  ## Strong interest
   * In applying NLP, data science
+ 
+ ## Let's connect
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/liyana-roslie-23228556/)
 
 <!---
 - 👋 Hi, I’m @LiyanaRoslie
